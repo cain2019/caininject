@@ -1,0 +1,3 @@
+rootProject.name='cain-inject'
+include ':app'
+include ':inject'
